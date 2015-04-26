@@ -1,0 +1,9 @@
+{
+  "name": "theJustinShow",
+  "description": "Mah page",
+  "author": "Justin",
+  "dependencies": {
+    "express": ">= 1.2.0",
+  },
+  "engine": "node 0.12.2"
+}
